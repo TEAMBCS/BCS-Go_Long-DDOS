@@ -27,8 +27,8 @@ You can download it from: https://golang.org/dl/
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/JOY-XII/BCS-DOS.git
-cd BCS-DOS
+https://github.com/TEAMBCS/BCS-Go_Long-DDOS
+cd BCS-Go_Long-DDOS
 chmod +x bcsdos
 ./bcsdos
 ```
